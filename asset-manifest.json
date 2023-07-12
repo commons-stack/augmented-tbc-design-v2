@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/augmented-tbc-design-v2/static/css/main.68a8f8f6.chunk.css",
+    "main.css": "/augmented-tbc-design-v2/static/css/main.87a29909.chunk.css",
     "main.js": "/augmented-tbc-design-v2/static/js/main.b245ebe8.chunk.js",
     "main.js.map": "/augmented-tbc-design-v2/static/js/main.b245ebe8.chunk.js.map",
     "runtime~main.js": "/augmented-tbc-design-v2/static/js/runtime~main.744a1519.js",
@@ -8,8 +8,8 @@
     "static/js/2.a0758485.chunk.js": "/augmented-tbc-design-v2/static/js/2.a0758485.chunk.js",
     "static/js/2.a0758485.chunk.js.map": "/augmented-tbc-design-v2/static/js/2.a0758485.chunk.js.map",
     "index.html": "/augmented-tbc-design-v2/index.html",
-    "precache-manifest.4578d5eefebfeb8c74369e55044c9e79.js": "/augmented-tbc-design-v2/precache-manifest.4578d5eefebfeb8c74369e55044c9e79.js",
+    "precache-manifest.ebaf91d278fc8042132ec9814c3e153a.js": "/augmented-tbc-design-v2/precache-manifest.ebaf91d278fc8042132ec9814c3e153a.js",
     "service-worker.js": "/augmented-tbc-design-v2/service-worker.js",
-    "static/css/main.68a8f8f6.chunk.css.map": "/augmented-tbc-design-v2/static/css/main.68a8f8f6.chunk.css.map"
+    "static/css/main.87a29909.chunk.css.map": "/augmented-tbc-design-v2/static/css/main.87a29909.chunk.css.map"
   }
 }
